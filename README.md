@@ -15,13 +15,17 @@ Various tools were used in this project. PostgreSQL served as the RDBMS platform
 Contents
 
 Data Preparation
+
 Processes include generating tables, importing data/attributes/values, defining primary and foreign keys, and generating an Entity Relationship Diagram (ERD).
 
 Annual Customer Activity Growth Analysis
+
 Includes the calculation of Monthly Active Users (MAU), new customers, and repeat order customers.
 
 Annual Product Category Quality Analysis
+
 Includes the calculation of top product categories, top product revenue, most canceled products, most canceled product order numbers, and total canceled customers. All revenue is denominated in USD ($).
 
 Analysis of Annual Payment Type Usage
+
 Includes the calculation of customer payment type preferences.
